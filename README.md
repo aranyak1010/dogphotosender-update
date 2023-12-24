@@ -11,6 +11,7 @@ This is an command line bot that sends dog photos to e-mail address at a given f
 1. Navigate to the location where the repository is to be cloned using the terminal
 2. Clone this repository by typing `git clone https://github.com/amartyanil/dogphotosender`
 
-### Running this repository
+### Running thie application
 
-Provided you have python3 installed in your system, run the file using the command `python3 main.py`
+1. Provided you have python3 installed in your system, run the file using the command `python3 main.py`
+2. Sign in using the required Gmail account from which the photos are going to be sent
