@@ -19,4 +19,4 @@ for i in range(0,no_of_email_ids):
 subject = "Daily Dog Picture"
 text = "This is a dog picture."
 for i in range(0,no_of_email_ids):
-    ezgmail.send(email_id_list[i], subject, text, dog_image_file)
+    ezgmail.send(email_id_list[i], subject, text, "dog_image.png")
