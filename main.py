@@ -9,8 +9,8 @@ dog_image_file.write(dog_image_url_response.content)
 
 
 email_id_list = []
-print("Enter number of email ids: ")
-no_of_email_ids = input()
+no_of_email_ids = input("Enter number of email ids: ")
+no_of_email_ids = int(no_of_email_ids)
 
 for i in range(0,no_of_email_ids):
     email_id = input()
